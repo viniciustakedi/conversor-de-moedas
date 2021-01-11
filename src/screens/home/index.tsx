@@ -60,8 +60,8 @@ export default function Home() {
                 const currency = Object.values(moedas)[0] as any
                 setCurrencyUsd(currency);
 
-                console.log(Object.values(currency)[15] as any) 
-                console.log(currency) 
+                //console.log(Object.values(currency)[15] as any) 
+                //console.log(currency) 
             })
             .catch(Erro => console.log(Erro));
     }
