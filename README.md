@@ -6,7 +6,5 @@ Fiz um simples conversor de moedas para auxiliar pessoas que querem converter al
 A api utilizada para cotar as moedas é o banco central europeu
 
 # Site
-Usei o github pages e subi com ajuda dessa documentação:
-https://medium.com/@brunodesouzabezerra/fazendo-deploy-da-sua-aplica%C3%A7%C3%A3o-react-no-github-pages-826f2dc352c8
-
-Link: 
+Usei o Heroku para subir essa minha aplicação.
+Link: http://conversordemoedasbr.herokuapp.com/
